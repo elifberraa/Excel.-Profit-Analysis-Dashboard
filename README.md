@@ -5,16 +5,11 @@
 - [EDA](#exploratory-data-analysis-eda)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
+- [Tools](#tools)
 
-
-### Excel Data Analysis Overview
 ---
+
 **Objective:** To analyze the company’s 2015 data and develop a roadmap to answer the question, "How can we increase the company's profit?"
-
-### Tools
-
-- Microsoft Excel - Data Analysis
-  - [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
    
 ### Exploratory Data Analysis (EDA)
 
@@ -48,3 +43,8 @@ Based on this analysis, I recommend the following actions:
 - Increasing the prices of items in the office supplies category could help boost profits.
 - Consider expanding marketing efforts for technology products in the LATAM region to capitalize on its profitability.
 - Reassess operations in Africa, South Asia, and EMEA to identify cost-saving opportunities or adjust the product mix to minimize losses.
+
+### Tools
+
+- Microsoft Excel - Data Analysis
+  - [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
