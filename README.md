@@ -46,5 +46,5 @@ Based on this analysis, I recommend the following actions:
 
 ### Tools
 
-- Microsoft Excel - Data Analysis
+- Microsoft Excel
   - [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
